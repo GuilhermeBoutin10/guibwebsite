@@ -1,0 +1,214 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	color: #666666;
+}
+.principal{
+ width: 1880px;
+ height: 921px;
+margin: auto;
+}
+.menu{
+	width: 1880px;
+	height: 70px;
+	background-color: #000000;
+	text-align: right;
+}
+.menu a{
+	text-decoration: none;
+	color: #fff;
+	padding: 4px 6px 6px;
+	border-top: 12px solid transparent;
+	margin-top: 12px;
+	display: inline-block;
+}
+.menu a:hover{
+	border-top: solid 3px #422402;
+	color: #955C08
+}
+.texto{
+	text-align: justify;
+	padding: 0 10px;
+	line-height: 21px;
+}
+.banner{
+	width: 1880px;
+	height: 800px;
+	float: left
+}
+.banner img{
+height: 855px;
+width: 1880px;
+}
+.teste{
+	  position: absolute;
+      color:#a52a2a;
+      text-align: center;
+      top: 535px;
+      width: 1800px;
+      line-height:60px;
+      height: 60px;
+	 font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	 font-size: 60px;
+}
+.teste2{
+		  position: absolute;
+      color:#a52a2a;
+      text-align: center;
+      top: 576px;
+      width: 1800px;
+      line-height:80px;
+      height: 40px;
+	 font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	 font-size: 25px;
+}
+.teste3{
+      position: absolute;
+      color:#a52a2a;
+      text-align: center;
+      top: 660px;
+      width: 1800px;
+      line-height:90px;
+      height: 90px;
+	 font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.banner a{
+	border: solid 5px #FF0004;
+	text-decoration: none;
+	color: #fff;
+    background-color: red;
+	font-size: 35px;
+	border-radius: 6px;
+	float: none;
+	padding: 10px
+}
+.banner a:hover{
+	background-color: #fff;
+	color: #63410F;
+	border-color: #63410F
+}
+.texto{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+.campo{
+	width: 15%;
+	padding: 5px;
+	height: 30px;
+	margin: 2px
+		
+}
+.formulario{
+	  position: absolute;
+      color:#362403;
+      text-align: center;
+      top: 445px;
+      width: 1800px;
+      line-height:80px;
+      height: 40px;
+	 font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	 font-size: 25px;
+}
+.abaixo{
+ 	  position: absolute;
+      color:#362403;
+      text-align: center;
+      top: 600px;
+      width: 1800px;
+      line-height:70px;
+      height: 90px;
+	 font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	 font-size: 20px;
+	
+}
+.botao{
+		width: 16%;
+	padding: 15px;
+	background-color: #362403;
+	color: #ffffff;
+	cursor: pointer;
+	border: 5px solid transparent;
+}
+.abaixo input:hover{
+	background-color: #FFFFFF;
+	border-color: #362403;
+	color: #362403
+
+}
+.sobrenos1{
+	  position: absolute;
+      color:#362403;
+      text-align: right;
+      top:335px;
+      width: 1200px;
+      line-height:45px;
+      height: 10px;
+	 font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	 font-size: 25px;
+	padding-left: 55px
+}
+.oquenosmove{
+	  position: absolute;
+      color:#362403;
+      text-align: right;
+      top:900px;
+      width: 900px;
+      line-height:45px;
+      height: 10px;
+	 font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	 font-size: 45px;
+	padding-left: 120px
+}
+.oquenosmove2{
+		  position: absolute;
+      color:#362403;
+      text-align: center;
+      top:1000px;
+      width: 1100px;
+      line-height:45px;
+      height: 10px;
+	 font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	 font-size: 28px;
+	padding-left: 300px
+}
+.banner3{
+	top: 360px;
+  position:relative;
+	  padding-left: 660px;
+	float: left
+} 
+.banner3 img{
+	height: 400px;
+	width: 400px;
+	float: left
+}
+.banner4{
+		top: 1300px;
+  position:absolute;
+	  padding-left: 490px;
+}
+.banner4 img{
+		height: 300px;
+	width: 300px;
+	float: left;
+	
+}
+.teste5{
+	float: right
+}
+.teste5 a{
+   width: 300px;
+	height: 300px
+   
+}
+.vermelho{
+		top: 1300px;
+  position:absolute;
+	  padding-left: 990px;
+}
+.vermelho img{
+			height: 300px;
+	width: 300px;
+	float: left;
+}
